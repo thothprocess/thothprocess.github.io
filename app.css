@@ -1,0 +1,8 @@
+a { text-decoration: none; }
+a:hover { text-decoration: underline; color: #0076ff; }
+.thoth-content { font-family: "Inter","Helvetica Neue",sans-serif; }
+.thoth-header { margin-top: 100px; margin-bottom: 50px; }
+.font-monospace { font-family: "Space Mono", monospace; }
+.width-50 { width: 50px; }
+.width-60 { width: 60px; }
+.width-90 { width: 90px; }
